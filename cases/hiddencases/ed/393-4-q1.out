@@ -1,0 +1,23 @@
+0,RUNNING,process-name=P4,remaining-time=5
+3,RUNNING,process-name=P2,remaining-time=4
+4,RUNNING,process-name=P4,remaining-time=2
+5,RUNNING,process-name=P2,remaining-time=3
+6,RUNNING,process-name=P1,remaining-time=5
+7,RUNNING,process-name=P4,remaining-time=1
+8,FINISHED,process-name=P4,proc-remaining=3
+8,RUNNING,process-name=P6,remaining-time=3
+9,RUNNING,process-name=P2,remaining-time=2
+10,RUNNING,process-name=P1,remaining-time=4
+11,RUNNING,process-name=P6,remaining-time=2
+12,RUNNING,process-name=P5,remaining-time=1
+13,FINISHED,process-name=P5,proc-remaining=3
+13,RUNNING,process-name=P2,remaining-time=1
+14,FINISHED,process-name=P2,proc-remaining=2
+14,RUNNING,process-name=P1,remaining-time=3
+15,RUNNING,process-name=P6,remaining-time=1
+16,FINISHED,process-name=P6,proc-remaining=1
+16,RUNNING,process-name=P1,remaining-time=2
+18,FINISHED,process-name=P1,proc-remaining=0
+Turnaround time 9
+Time overhead 3.33 2.66
+Makespan 18

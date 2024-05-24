@@ -1,0 +1,20 @@
+0,RUNNING,process-name=P4,remaining-time=5
+1,RUNNING,process-name=P2,remaining-time=4
+2,RUNNING,process-name=P1,remaining-time=7
+3,RUNNING,process-name=P4,remaining-time=4
+4,RUNNING,process-name=P2,remaining-time=3
+5,RUNNING,process-name=P1,remaining-time=6
+6,RUNNING,process-name=P4,remaining-time=3
+7,RUNNING,process-name=P2,remaining-time=2
+8,RUNNING,process-name=P1,remaining-time=5
+9,RUNNING,process-name=P4,remaining-time=2
+10,RUNNING,process-name=P2,remaining-time=1
+11,FINISHED,process-name=P2,proc-remaining=2
+11,RUNNING,process-name=P1,remaining-time=4
+12,RUNNING,process-name=P4,remaining-time=1
+13,FINISHED,process-name=P4,proc-remaining=1
+13,RUNNING,process-name=P1,remaining-time=3
+16,FINISHED,process-name=P1,proc-remaining=0
+Turnaround time 14
+Time overhead 2.75 2.55
+Makespan 16

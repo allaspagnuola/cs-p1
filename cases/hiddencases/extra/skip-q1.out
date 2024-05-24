@@ -1,0 +1,7 @@
+0,RUNNING,process-name=P,remaining-time=1
+1,FINISHED,process-name=P,proc-remaining=0
+4294967294,RUNNING,process-name=P0,remaining-time=1
+4294967295,FINISHED,process-name=P0,proc-remaining=0
+Turnaround time 1
+Time overhead 1.00 1.00
+Makespan 4294967295
